@@ -1,0 +1,11 @@
+body {
+    background-color: #00f;
+    color: #fff;
+    font-family: monospace;
+}
+
+form {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
